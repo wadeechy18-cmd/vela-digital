@@ -2,7 +2,14 @@
   "permissions": {
     "allow": [
       "Bash(npm -v)",
-      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --no-turbopack)"
+      "Bash(npx --yes create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm --no-turbopack)",
+      "Bash(npx tsc *)",
+      "Bash(chromium-cli --help)",
+      "Bash(curl -sv http://localhost:3000)",
+      "Bash(curl -sv http://127.0.0.1:3000)",
+      "Bash(cd \"c:/Users/Msi/web\" && ls node_modules/@vercel 2>&1; echo ---; ls node_modules/.bin | grep -i next 2>&1; echo ---; find / -maxdepth 6 -iname \"*turbopack-next*\" 2>/dev/null | head -20)",
+      "Read(//c//**)",
+      "Bash(curl -sS -m 10 -o /dev/null -w \"HTTP %{http_code}\\\\n\" https://fonts.googleapis.com/css2)"
     ]
   }
 }
