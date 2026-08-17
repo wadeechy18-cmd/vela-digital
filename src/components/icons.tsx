@@ -131,6 +131,23 @@ export function AutomationIcon({ className }: IconProps) {
   );
 }
 
+export function SmartphoneIcon({ className }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden="true">
+      <rect x="6.5" y="2.5" width="11" height="19" rx="2.2" />
+      <path d="M10.5 18.2h3" />
+    </svg>
+  );
+}
+
+export function CodeIcon({ className }: IconProps) {
+  return (
+    <svg {...base} className={className} aria-hidden="true">
+      <path d="m9 7.5-5 4.5 5 4.5M15 7.5l5 4.5-5 4.5" />
+    </svg>
+  );
+}
+
 export function SearchIcon({ className }: IconProps) {
   return (
     <svg {...base} className={className} aria-hidden="true">

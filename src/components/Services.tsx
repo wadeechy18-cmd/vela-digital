@@ -4,6 +4,7 @@ import {
   BadgeIcon,
   BookIcon,
   ClapperIcon,
+  CodeIcon,
   FlyerIcon,
   GlobeIcon,
   MegaphoneIcon,
@@ -11,6 +12,7 @@ import {
   PresentationIcon,
   SearchIcon,
   ShareIcon,
+  SmartphoneIcon,
   TableIcon,
   VideoIcon,
   type IconProps,
@@ -98,6 +100,16 @@ const CATEGORIES: Category[] = [
         name: "Business Websites",
         description: "Fast, simple websites that turn visitors into customers.",
         icon: GlobeIcon,
+      },
+      {
+        name: "App Development",
+        description: "Simple mobile and web apps built around what your business needs.",
+        icon: SmartphoneIcon,
+      },
+      {
+        name: "Software Development",
+        description: "Custom tools and small software builds for specific business problems.",
+        icon: CodeIcon,
       },
       {
         name: "Excel & Data Work",

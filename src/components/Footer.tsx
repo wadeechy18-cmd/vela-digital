@@ -11,6 +11,7 @@ const SERVICE_LINKS = [
   "Graphic Design",
   "Logo & Branding",
   "Business Websites",
+  "App & Software Development",
   "Social Media Content",
   "Excel & Automation",
 ];

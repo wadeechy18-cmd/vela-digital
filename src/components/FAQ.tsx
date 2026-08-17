@@ -9,7 +9,7 @@ const FAQS = [
   {
     question: "What services do you offer?",
     answer:
-      "We handle video editing, reels & shorts, social media content, promotional videos, graphic design, logo & branding, posters & flyers, menus & catalogs, presentations, business websites, Excel & data work, simple automation, and online research.",
+      "We handle video editing, reels & shorts, social media content, promotional videos, graphic design, logo & branding, posters & flyers, menus & catalogs, presentations, business websites, app development, software development, Excel & data work, simple automation, and online research.",
   },
   {
     question: "How long does a project take?",

@@ -16,6 +16,8 @@ const SERVICE_OPTIONS = [
   "Menus & Catalogs",
   "Presentations",
   "Business Website",
+  "App Development",
+  "Software Development",
   "Excel & Data Work",
   "Simple Automation",
   "Online Research",
