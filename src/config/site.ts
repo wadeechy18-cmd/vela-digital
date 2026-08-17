@@ -6,8 +6,8 @@
  */
 
 export const siteConfig = {
-  name: "Vela Digital",
-  shortName: "Vela",
+  name: "SolveIQ",
+  shortName: "SolveIQ",
   tagline: "Digital Services for Growing Businesses",
   description:
     "Affordable video editing, graphic design, websites, social media content, and digital services for businesses.",
@@ -18,9 +18,9 @@ export const siteConfig = {
   // Digits only, with country code, no spaces or symbols
   whatsappNumber: "8801752533287",
   // INSTAGRAM_PLACEHOLDER
-  instagramUrl: "https://instagram.com/veladigital",
+  instagramUrl: "https://instagram.com/solveiq",
   // FACEBOOK_PLACEHOLDER
-  facebookUrl: "https://facebook.com/veladigital",
+  facebookUrl: "https://facebook.com/solveiq",
   // -----------------------------------------------------------------------
 
   whatsappMessage: "Hi! I'd like to get a quote for a project.",

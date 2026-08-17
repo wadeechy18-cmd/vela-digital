@@ -13,7 +13,7 @@ const jakarta = Plus_Jakarta_Sans({
 const title = `${siteConfig.name} — ${siteConfig.tagline}`;
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://veladigital.co"),
+  metadataBase: new URL("https://solveiq.co"),
   title,
   description: siteConfig.description,
   openGraph: {
